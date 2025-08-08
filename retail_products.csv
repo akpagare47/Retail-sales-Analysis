@@ -1,0 +1,221 @@
+product_id,product_name,category,sub_category,unit_price,typical_margin
+PROD000001,Laptops Ultrabooks Plus-32,Laptops,Ultrabooks,55980.28,0.088
+PROD000002,Audio Soundbars Neo-43,Audio,Soundbars,2393.71,0.29
+PROD000003,Accessories Chargers Apex-28,Accessories,Chargers,1452.29,0.154
+PROD000004,Accessories Chargers Pro-78,Accessories,Chargers,2615.05,0.364
+PROD000005,Accessories Power Banks Max-89,Accessories,Power Banks,3483.03,0.304
+PROD000006,Wearables Fitness Bands Neo-41,Wearables,Fitness Bands,29445.24,0.085
+PROD000007,Wearables Fitness Bands Pro-59,Wearables,Fitness Bands,42400.02,0.178
+PROD000008,Laptops Ultrabooks Pro-70,Laptops,Ultrabooks,116005.06,0.054
+PROD000009,Laptops Business X-76,Laptops,Business,111842.52,0.144
+PROD000010,Accessories Cables Apex-52,Accessories,Cables,4138.05,0.313
+PROD000011,Accessories Cases Lite-55,Accessories,Cases,1139.8,0.167
+PROD000012,Laptops Ultrabooks Lite-44,Laptops,Ultrabooks,32733.27,0.05
+PROD000013,Audio Soundbars Lite-35,Audio,Soundbars,10760.07,0.231
+PROD000014,Accessories Chargers X-16,Accessories,Chargers,3471.75,0.235
+PROD000015,Phones Smartphones Neo-84,Phones,Smartphones,18871.16,0.141
+PROD000016,Audio Speakers Neo-30,Audio,Speakers,26446.69,0.247
+PROD000017,Phones Feature Phones X-82,Phones,Feature Phones,97017.41,0.121
+PROD000018,Laptops Gaming Plus-45,Laptops,Gaming,115278.04,0.103
+PROD000019,Accessories Cases Pro-33,Accessories,Cases,1985.69,0.344
+PROD000020,Wearables Smartwatches Pro-21,Wearables,Smartwatches,39219.57,0.176
+PROD000021,Accessories Cables Apex-98,Accessories,Cables,2259.17,0.338
+PROD000022,Phones Feature Phones Pro-71,Phones,Feature Phones,29917.73,0.099
+PROD000023,Laptops Gaming Max-22,Laptops,Gaming,104484.18,0.083
+PROD000024,Wearables Fitness Bands Max-21,Wearables,Fitness Bands,40455.26,0.146
+PROD000025,Phones Feature Phones Pro-18,Phones,Feature Phones,96185.82,0.16
+PROD000026,Wearables Smartwatches Neo-61,Wearables,Smartwatches,15390.14,0.242
+PROD000027,Laptops Gaming Neo-78,Laptops,Gaming,116015.68,0.11
+PROD000028,Audio Speakers X-94,Audio,Speakers,9503.11,0.166
+PROD000029,Wearables Fitness Bands Plus-66,Wearables,Fitness Bands,34228.29,0.215
+PROD000030,Wearables Smartwatches Plus-67,Wearables,Smartwatches,6435.71,0.238
+PROD000031,Laptops Business Plus-14,Laptops,Business,38633.81,0.1
+PROD000032,Wearables Smartwatches Lite-84,Wearables,Smartwatches,33561.05,0.173
+PROD000033,Audio Speakers Apex-83,Audio,Speakers,4394.94,0.129
+PROD000034,Wearables Smartwatches Apex-16,Wearables,Smartwatches,37907.93,0.227
+PROD000035,Wearables Smartwatches Lite-18,Wearables,Smartwatches,20034.98,0.118
+PROD000036,Wearables Smartwatches Neo-14,Wearables,Smartwatches,37250.91,0.2
+PROD000037,Accessories Power Banks Apex-17,Accessories,Power Banks,2663.97,0.208
+PROD000038,Laptops Business Lite-26,Laptops,Business,86140.62,0.081
+PROD000039,Audio Headphones Lite-13,Audio,Headphones,28470.21,0.297
+PROD000040,Audio Headphones X-28,Audio,Headphones,11156.33,0.242
+PROD000041,Laptops Business X-83,Laptops,Business,146572.04,0.101
+PROD000042,Audio Headphones Lite-76,Audio,Headphones,27284.28,0.122
+PROD000043,Audio Speakers Max-67,Audio,Speakers,8356.78,0.181
+PROD000044,Phones Feature Phones Pro-48,Phones,Feature Phones,76169.6,0.15
+PROD000045,Phones Smartphones Lite-71,Phones,Smartphones,76636.13,0.126
+PROD000046,Phones Smartphones X-34,Phones,Smartphones,44820.51,0.112
+PROD000047,Accessories Chargers Lite-15,Accessories,Chargers,4369.28,0.206
+PROD000048,Phones Smartphones X-54,Phones,Smartphones,81794.05,0.177
+PROD000049,Phones Feature Phones X-94,Phones,Feature Phones,11970.71,0.166
+PROD000050,Laptops Ultrabooks Plus-28,Laptops,Ultrabooks,178944.72,0.048
+PROD000051,Audio Speakers X-58,Audio,Speakers,29109.77,0.205
+PROD000052,Audio Soundbars X-63,Audio,Soundbars,21176.71,0.191
+PROD000053,Phones Smartphones Max-66,Phones,Smartphones,61756.92,0.167
+PROD000054,Accessories Chargers Neo-25,Accessories,Chargers,4593.22,0.39
+PROD000055,Wearables Fitness Bands Lite-37,Wearables,Fitness Bands,40226.47,0.157
+PROD000056,Laptops Business Neo-45,Laptops,Business,80349.01,0.059
+PROD000057,Phones Smartphones Pro-59,Phones,Smartphones,50660.25,0.096
+PROD000058,Audio Soundbars Lite-73,Audio,Soundbars,8712.2,0.172
+PROD000059,Audio Earbuds Neo-82,Audio,Earbuds,14143.98,0.106
+PROD000060,Audio Speakers Neo-38,Audio,Speakers,9976.3,0.263
+PROD000061,Accessories Cables Max-15,Accessories,Cables,839.29,0.169
+PROD000062,Phones Smartphones Plus-56,Phones,Smartphones,95381.59,0.144
+PROD000063,Audio Headphones Neo-39,Audio,Headphones,27656.12,0.117
+PROD000064,Laptops Ultrabooks Apex-42,Laptops,Ultrabooks,159909.58,0.045
+PROD000065,Wearables Smartwatches X-58,Wearables,Smartwatches,35325.7,0.162
+PROD000066,Wearables Smartwatches Neo-98,Wearables,Smartwatches,17888.15,0.207
+PROD000067,Phones Feature Phones X-86,Phones,Feature Phones,97232.12,0.159
+PROD000068,Laptops Business Neo-10,Laptops,Business,39526.77,0.044
+PROD000069,Phones Smartphones Lite-90,Phones,Smartphones,9257.82,0.06
+PROD000070,Accessories Cables Plus-12,Accessories,Cables,2764.86,0.337
+PROD000071,Wearables Fitness Bands Lite-46,Wearables,Fitness Bands,25661.28,0.211
+PROD000072,Wearables Fitness Bands Neo-94,Wearables,Fitness Bands,34433.03,0.144
+PROD000073,Accessories Cables Max-60,Accessories,Cables,2362.61,0.182
+PROD000074,Wearables Smartwatches X-74,Wearables,Smartwatches,13450.83,0.115
+PROD000075,Accessories Cases Apex-81,Accessories,Cases,3424.16,0.305
+PROD000076,Wearables Smartwatches Max-63,Wearables,Smartwatches,2465.04,0.165
+PROD000077,Audio Soundbars Apex-21,Audio,Soundbars,23397.23,0.204
+PROD000078,Accessories Power Banks Plus-66,Accessories,Power Banks,4118.65,0.392
+PROD000079,Wearables Fitness Bands Max-32,Wearables,Fitness Bands,27163.08,0.162
+PROD000080,Audio Soundbars Neo-75,Audio,Soundbars,22898.98,0.224
+PROD000081,Accessories Power Banks Neo-73,Accessories,Power Banks,4064.21,0.376
+PROD000082,Wearables Fitness Bands Neo-91,Wearables,Fitness Bands,2132.69,0.14
+PROD000083,Laptops Gaming Plus-72,Laptops,Gaming,88836.61,0.088
+PROD000084,Laptops Gaming Apex-97,Laptops,Gaming,138959.55,0.1
+PROD000085,Wearables Fitness Bands X-60,Wearables,Fitness Bands,41105.5,0.131
+PROD000086,Wearables Smartwatches X-19,Wearables,Smartwatches,31847.42,0.215
+PROD000087,Laptops Gaming Neo-93,Laptops,Gaming,168988.14,0.094
+PROD000088,Accessories Chargers X-62,Accessories,Chargers,2403.85,0.395
+PROD000089,Accessories Chargers Lite-52,Accessories,Chargers,1867.58,0.202
+PROD000090,Laptops Ultrabooks Pro-32,Laptops,Ultrabooks,66021.84,0.048
+PROD000091,Audio Headphones Plus-25,Audio,Headphones,4713.33,0.13
+PROD000092,Phones Smartphones Plus-65,Phones,Smartphones,66960.48,0.074
+PROD000093,Wearables Smartwatches X-36,Wearables,Smartwatches,19407.26,0.229
+PROD000094,Laptops Gaming Pro-60,Laptops,Gaming,130133.66,0.059
+PROD000095,Phones Smartphones Neo-51,Phones,Smartphones,11759.91,0.072
+PROD000096,Phones Feature Phones Neo-10,Phones,Feature Phones,24284.96,0.062
+PROD000097,Wearables Smartwatches X-55,Wearables,Smartwatches,24747.42,0.141
+PROD000098,Laptops Business Pro-54,Laptops,Business,84640.48,0.095
+PROD000099,Accessories Power Banks X-56,Accessories,Power Banks,1743.6,0.173
+PROD000100,Wearables Fitness Bands Pro-72,Wearables,Fitness Bands,28813.67,0.094
+PROD000101,Accessories Cases Lite-45,Accessories,Cases,2010.97,0.151
+PROD000102,Audio Soundbars Apex-61,Audio,Soundbars,24379.84,0.25
+PROD000103,Audio Speakers Neo-95,Audio,Speakers,7071.13,0.174
+PROD000104,Accessories Cases X-87,Accessories,Cases,1333.36,0.34
+PROD000105,Phones Smartphones Max-23,Phones,Smartphones,50553.19,0.147
+PROD000106,Laptops Ultrabooks Pro-12,Laptops,Ultrabooks,52160.86,0.055
+PROD000107,Wearables Fitness Bands Pro-27,Wearables,Fitness Bands,40441.5,0.167
+PROD000108,Laptops Ultrabooks Pro-24,Laptops,Ultrabooks,97111.86,0.099
+PROD000109,Laptops Gaming Lite-37,Laptops,Gaming,45730.37,0.121
+PROD000110,Laptops Gaming Lite-95,Laptops,Gaming,33010.68,0.075
+PROD000111,Accessories Cases Plus-26,Accessories,Cases,1771.99,0.18
+PROD000112,Audio Soundbars X-19,Audio,Soundbars,10944.88,0.195
+PROD000113,Laptops Business Plus-95,Laptops,Business,148375.69,0.095
+PROD000114,Accessories Cables Neo-92,Accessories,Cables,3016.84,0.336
+PROD000115,Wearables Fitness Bands Neo-61,Wearables,Fitness Bands,17976.61,0.137
+PROD000116,Wearables Smartwatches Lite-65,Wearables,Smartwatches,29597.4,0.177
+PROD000117,Phones Smartphones Plus-42,Phones,Smartphones,53838.79,0.093
+PROD000118,Phones Smartphones X-79,Phones,Smartphones,8693.16,0.079
+PROD000119,Laptops Business Neo-84,Laptops,Business,66893.66,0.058
+PROD000120,Phones Smartphones Apex-33,Phones,Smartphones,16085.66,0.155
+PROD000121,Laptops Business X-40,Laptops,Business,164514.81,0.049
+PROD000122,Accessories Chargers Lite-15,Accessories,Chargers,2169.9,0.396
+PROD000123,Wearables Fitness Bands Max-13,Wearables,Fitness Bands,18806.72,0.245
+PROD000124,Audio Headphones Apex-60,Audio,Headphones,1153.7,0.295
+PROD000125,Wearables Fitness Bands Apex-84,Wearables,Fitness Bands,37207.47,0.202
+PROD000126,Phones Feature Phones Lite-53,Phones,Feature Phones,60588.37,0.086
+PROD000127,Accessories Chargers Lite-77,Accessories,Chargers,1184.37,0.392
+PROD000128,Audio Earbuds Apex-21,Audio,Earbuds,13337.66,0.202
+PROD000129,Phones Smartphones Neo-73,Phones,Smartphones,18564.99,0.129
+PROD000130,Laptops Business Lite-86,Laptops,Business,43093.53,0.096
+PROD000131,Accessories Cases Pro-59,Accessories,Cases,2756.43,0.163
+PROD000132,Audio Headphones Pro-19,Audio,Headphones,14173.77,0.21
+PROD000133,Audio Soundbars Lite-11,Audio,Soundbars,29708.85,0.164
+PROD000134,Laptops Business Neo-82,Laptops,Business,43180.22,0.055
+PROD000135,Accessories Chargers Max-33,Accessories,Chargers,3849.09,0.299
+PROD000136,Phones Smartphones X-58,Phones,Smartphones,63761.37,0.153
+PROD000137,Audio Soundbars Lite-59,Audio,Soundbars,25671.1,0.249
+PROD000138,Audio Headphones Max-18,Audio,Headphones,4604.62,0.246
+PROD000139,Phones Smartphones Apex-10,Phones,Smartphones,26860.17,0.099
+PROD000140,Audio Soundbars Max-73,Audio,Soundbars,22492.5,0.215
+PROD000141,Accessories Chargers Lite-23,Accessories,Chargers,3951.27,0.357
+PROD000142,Phones Smartphones Neo-46,Phones,Smartphones,81557.42,0.157
+PROD000143,Wearables Fitness Bands Pro-35,Wearables,Fitness Bands,36934.0,0.193
+PROD000144,Phones Smartphones Max-51,Phones,Smartphones,91523.68,0.091
+PROD000145,Accessories Chargers Neo-48,Accessories,Chargers,2083.74,0.354
+PROD000146,Accessories Chargers Neo-47,Accessories,Chargers,3626.16,0.375
+PROD000147,Wearables Smartwatches Plus-34,Wearables,Smartwatches,24980.48,0.155
+PROD000148,Audio Headphones Pro-75,Audio,Headphones,11305.51,0.178
+PROD000149,Laptops Business Neo-60,Laptops,Business,111532.93,0.14
+PROD000150,Wearables Fitness Bands Max-76,Wearables,Fitness Bands,25113.95,0.153
+PROD000151,Wearables Fitness Bands X-73,Wearables,Fitness Bands,28805.3,0.137
+PROD000152,Laptops Business Max-42,Laptops,Business,55009.61,0.137
+PROD000153,Phones Feature Phones Apex-45,Phones,Feature Phones,57078.42,0.166
+PROD000154,Phones Feature Phones Neo-36,Phones,Feature Phones,99787.72,0.148
+PROD000155,Phones Feature Phones Lite-95,Phones,Feature Phones,76443.06,0.054
+PROD000156,Wearables Fitness Bands Plus-83,Wearables,Fitness Bands,32561.79,0.164
+PROD000157,Accessories Chargers Max-40,Accessories,Chargers,1841.99,0.355
+PROD000158,Accessories Power Banks X-61,Accessories,Power Banks,2018.34,0.264
+PROD000159,Laptops Gaming Lite-14,Laptops,Gaming,89593.09,0.128
+PROD000160,Audio Soundbars Neo-54,Audio,Soundbars,15104.37,0.182
+PROD000161,Wearables Fitness Bands Apex-45,Wearables,Fitness Bands,32821.59,0.189
+PROD000162,Wearables Fitness Bands Plus-78,Wearables,Fitness Bands,25108.51,0.123
+PROD000163,Laptops Business Apex-47,Laptops,Business,154019.82,0.145
+PROD000164,Phones Feature Phones Neo-55,Phones,Feature Phones,28916.29,0.105
+PROD000165,Audio Earbuds Max-71,Audio,Earbuds,18833.56,0.282
+PROD000166,Audio Speakers Pro-69,Audio,Speakers,3923.04,0.151
+PROD000167,Phones Smartphones Apex-77,Phones,Smartphones,62552.59,0.063
+PROD000168,Accessories Power Banks Pro-40,Accessories,Power Banks,3992.41,0.156
+PROD000169,Accessories Chargers Neo-38,Accessories,Chargers,3112.23,0.256
+PROD000170,Phones Smartphones X-20,Phones,Smartphones,17590.72,0.159
+PROD000171,Audio Soundbars Apex-30,Audio,Soundbars,14074.34,0.123
+PROD000172,Phones Smartphones Pro-96,Phones,Smartphones,23227.89,0.074
+PROD000173,Wearables Smartwatches Lite-64,Wearables,Smartwatches,41556.62,0.228
+PROD000174,Wearables Fitness Bands Plus-56,Wearables,Fitness Bands,11391.71,0.183
+PROD000175,Audio Headphones Pro-61,Audio,Headphones,2588.09,0.167
+PROD000176,Audio Soundbars Plus-44,Audio,Soundbars,23845.91,0.221
+PROD000177,Phones Smartphones Lite-84,Phones,Smartphones,44631.52,0.12
+PROD000178,Wearables Smartwatches Max-43,Wearables,Smartwatches,41648.77,0.159
+PROD000179,Audio Earbuds Neo-68,Audio,Earbuds,27635.19,0.217
+PROD000180,Accessories Cases Pro-33,Accessories,Cases,2371.71,0.185
+PROD000181,Audio Earbuds Apex-97,Audio,Earbuds,17751.33,0.133
+PROD000182,Laptops Gaming Pro-31,Laptops,Gaming,76720.98,0.126
+PROD000183,Audio Speakers X-58,Audio,Speakers,7382.82,0.143
+PROD000184,Phones Feature Phones Pro-58,Phones,Feature Phones,24379.31,0.175
+PROD000185,Laptops Business Max-72,Laptops,Business,113595.81,0.135
+PROD000186,Audio Earbuds X-10,Audio,Earbuds,29909.35,0.2
+PROD000187,Phones Smartphones Pro-60,Phones,Smartphones,36514.2,0.102
+PROD000188,Phones Feature Phones Pro-41,Phones,Feature Phones,27311.31,0.167
+PROD000189,Wearables Fitness Bands Plus-39,Wearables,Fitness Bands,21868.08,0.186
+PROD000190,Accessories Power Banks Pro-10,Accessories,Power Banks,4215.51,0.297
+PROD000191,Audio Earbuds Pro-75,Audio,Earbuds,23490.3,0.191
+PROD000192,Accessories Cables X-47,Accessories,Cables,2765.39,0.27
+PROD000193,Accessories Cables X-17,Accessories,Cables,3873.71,0.176
+PROD000194,Accessories Cases Max-41,Accessories,Cases,4336.57,0.387
+PROD000195,Audio Earbuds Pro-43,Audio,Earbuds,8896.75,0.279
+PROD000196,Audio Speakers Plus-41,Audio,Speakers,12853.29,0.105
+PROD000197,Audio Speakers Apex-74,Audio,Speakers,21763.19,0.232
+PROD000198,Wearables Smartwatches Lite-96,Wearables,Smartwatches,25499.93,0.123
+PROD000199,Wearables Smartwatches Max-63,Wearables,Smartwatches,30727.33,0.083
+PROD000200,Wearables Smartwatches Max-60,Wearables,Smartwatches,16258.3,0.177
+PROD000201,Audio Earbuds X-43,Audio,Earbuds,19929.64,0.148
+PROD000202,Accessories Chargers Plus-41,Accessories,Chargers,4065.51,0.397
+PROD000203,Audio Soundbars Neo-77,Audio,Soundbars,25815.2,0.266
+PROD000204,Accessories Cables Pro-23,Accessories,Cables,4733.17,0.185
+PROD000205,Laptops Business X-16,Laptops,Business,73972.16,0.139
+PROD000206,Audio Headphones X-94,Audio,Headphones,19363.98,0.247
+PROD000207,Wearables Fitness Bands Lite-45,Wearables,Fitness Bands,2654.15,0.111
+PROD000208,Audio Soundbars Lite-10,Audio,Soundbars,19644.84,0.241
+PROD000209,Phones Feature Phones Max-11,Phones,Feature Phones,83204.81,0.094
+PROD000210,Wearables Smartwatches Apex-29,Wearables,Smartwatches,17293.08,0.086
+PROD000211,Laptops Business Max-18,Laptops,Business,123622.34,0.085
+PROD000212,Accessories Cables Max-95,Accessories,Cables,2293.41,0.224
+PROD000213,Wearables Smartwatches Lite-39,Wearables,Smartwatches,35419.51,0.099
+PROD000214,Audio Speakers Plus-90,Audio,Speakers,15135.5,0.279
+PROD000215,Audio Headphones Apex-18,Audio,Headphones,15058.57,0.202
+PROD000216,Phones Feature Phones Neo-82,Phones,Feature Phones,57830.35,0.132
+PROD000217,Wearables Smartwatches X-13,Wearables,Smartwatches,7561.99,0.222
+PROD000218,Accessories Power Banks X-96,Accessories,Power Banks,834.93,0.375
+PROD000219,Wearables Smartwatches Pro-94,Wearables,Smartwatches,31218.5,0.22
+PROD000220,Phones Feature Phones Apex-43,Phones,Feature Phones,82985.01,0.115
