@@ -27,10 +27,6 @@ End-to-end **data analytics project** using Python, pandas, and Plotly. We analy
 - Matplotlib (static PNGs for README)
 - Jupyter Notebook
 
-## ▶️ How to Run
-1. Download all files into one folder
-2. Open `retail_sales_analysis.ipynb` in Jupyter
-3. Run all cells
 
 ## 📌 Insights (Highlights)
 - **Laptops** drive the most revenue; **Accessories** offer stable margins
@@ -46,4 +42,3 @@ End-to-end **data analytics project** using Python, pandas, and Plotly. We analy
 
 ---
 
-> This project is designed to be portfolio-ready for Data Analyst roles.
